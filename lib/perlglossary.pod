@@ -89,8 +89,8 @@ name so people don’t realize they are using a program.
 
 =item architecture
 
-The kind of X<architecture>computer you’re working on, where one “kind” of
-computer means all those computers sharing a compatible machine language.
+The kind of X<architecture>computer you’re working on, where one “kind of
+computer” means all those computers sharing a compatible machine language.
 Since Perl programs are (typically) simple text files, not executable
 images, a Perl program is much less sensitive to the architecture it’s
 running on than programs in other languages, such as C, that are B<compiled>
@@ -2576,7 +2576,7 @@ incoming B<pipe>. See also B<C preprocessor>.
 
 =item primary maintainer
 
-The X<primary maintainer>author that PAUSE allows to assign B<co-maintainer> 
+The X<primary maintainer>author that PAUSE allows to assign B<co-maintainer>
 permissions to a B<namespace>. A primary maintainer can give up this
 distinction by assigning it to another PAUSE author. See Camel chapter 19,
 “CPAN”.
